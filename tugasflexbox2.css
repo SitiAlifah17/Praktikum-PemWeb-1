@@ -1,0 +1,43 @@
+body {
+    background: burlywood;
+  }
+  h1 {
+    color: yellowgreen;
+  }
+  img {
+    width: 200px;
+    margin: 50px;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .box {
+    border: 2px solid green;
+    margin: 10px;
+    height: 100px;
+  }
+  
+  .header {
+    background-color: blue;
+    width: 100%;
+  }
+  .aside {
+    background-color: #d3358c;
+    width: 30%;
+    height: 500px;
+  }
+  .article {
+    background-color: #300757;
+    width: 70%;
+    height: 500px;
+  }
+  
+  .footer {
+    background-color: #aa530c;
+    width: 100%;
+  }
